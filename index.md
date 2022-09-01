@@ -11,12 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# PJ Henwood
+## Septermber 2 2022
+### I don't see any of the buttons they are talking about and it is very annoying
 
 - Bulleted
-- List
+- I had to remove the <> for the URL how should I know how to do that???
+- The page scource thing was completly different than they described the master thing was in a whole other section
+- I hope I can finish this correctly cause rn I have no idea if I'm doing any of this right.
+- THERE IS ONLY A PROPOSE CHANGES BUTTON NOT A COMMIT CHANEGS ARGJHHHH
 
 1. Numbered
 2. List
